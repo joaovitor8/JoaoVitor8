@@ -40,7 +40,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Joao_Ezeki" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-JoãoVitor-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/joaovitorezequiel/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JoãoVitor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
