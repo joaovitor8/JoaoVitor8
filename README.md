@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-- I'm currently learning: HTML, CSS, JavaScript, SQL, NODE, ReactJS
+- I'm currently learning: HTML, CSS, JavaScript, ReactJS
 
 <br><br>
 
