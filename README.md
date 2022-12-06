@@ -1,5 +1,6 @@
-
 # 👋 Hello! Welcome to my Github profile.
+
+<br>
 
 ## My name is João Vitor
 
@@ -9,6 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br>
 
 ## Tools and Technologies
 <div>
@@ -19,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 
+<br>
 
 ## I am learning
 <div>
@@ -27,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </div>
 
+<br>
 
 ## Contacts
 <div>
@@ -34,3 +38,5 @@
 <a href = "joaoezeki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joaovitorezequiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
