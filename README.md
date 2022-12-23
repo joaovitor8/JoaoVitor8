@@ -1,16 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
-
-<br>
-
-## My name is João Vitor
-
-<div>
-<a href="https://github.com/joaovitor8">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor8&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
+# 👋 Hello! Welcome to my Github profile, My name is João Vitor.
 
 <br>
 
