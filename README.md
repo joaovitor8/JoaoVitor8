@@ -8,6 +8,6 @@
 <br>
 
 ## Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,git,react,vite,cs)](https://skillicons.dev)
 
 <br>
