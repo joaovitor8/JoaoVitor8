@@ -11,3 +11,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,vite,git,visualstudio,cs)](https://skillicons.dev)
 
 <br>
+
+![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
