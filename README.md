@@ -13,3 +13,7 @@
 <br>
 
 ![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
+
+
+
+- Desenvolvedor Front-end | Desenvolvedor Back-end | Desenvolvedor Full-stack | Engenheiro de software | Cientista de dados
