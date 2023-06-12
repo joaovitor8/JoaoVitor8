@@ -2,8 +2,21 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <p>Sou um entusiasta da tecnologia e desenvolvimento de software, focando em sempre aprender e aprimorar minhas habilidades em diferentes áreas da programação, como:</p>
+
+  <ul>
+    <li>Programação em Javascript</li>
+    <li>Desenvolvimento Full-stack</li>
+    <li>Programação em Python</li>
+    <li>Aprendizado de máquina e inteligência artificial</li>
+    <li>Ciência de dados</li>
+  </ul>
+  
+  <p>Fique à vontade para explorar meus projetos no GitHub. Sinta-se livre para entrar em contato caso tenha alguma pergunta ou oportunidade de colaboração. Obrigado por visitar meu perfil!</p>
+</div>
+
+
 
 <br>
 
@@ -13,8 +26,3 @@
 <br>
 
 ![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
-
-
-
-- Desenvolvedor Full-stack | Engenheiro de software | Cientista de dados
-- Javascript | Python
