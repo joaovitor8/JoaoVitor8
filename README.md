@@ -16,4 +16,5 @@
 
 
 
-- Desenvolvedor Front-end | Desenvolvedor Back-end | Desenvolvedor Full-stack | Engenheiro de software | Cientista de dados
+- Desenvolvedor Full-stack | Engenheiro de software | Cientista de dados
+- Javascript | Python
