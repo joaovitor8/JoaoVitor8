@@ -26,3 +26,6 @@
 <br>
 
 ![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
+
+
+Tecnologias: Git, HTML, CSS, TailwindCSS, JavaScript, TypeScript, ReactJS, NextJS, JSON, NodeJS, Fastify, Python, MongoDB, SQL, C#, .NET
