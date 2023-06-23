@@ -9,9 +9,10 @@
     <li>Programação em Javascript</li>
     <li>Desenvolvimento Full-stack</li>
     <li>Programação em Python</li>
-    <li>Aprendizado de máquina e inteligência artificial</li>
     <li>Ciência de dados</li>
   </ul>
+
+  <p>Tecnologias: Git, HTML, CSS, TailwindCSS, JavaScript, TypeScript, ReactJS, NextJS, JSON, NodeJS, Fastify, Python, MongoDB, SQL, C#, .NET</p>
   
   <p>Fique à vontade para explorar meus projetos no GitHub. Sinta-se livre para entrar em contato caso tenha alguma pergunta ou oportunidade de colaboração. Obrigado por visitar meu perfil!</p>
 </div>
@@ -26,6 +27,3 @@
 <br>
 
 ![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
-
-
-Tecnologias: Git, HTML, CSS, TailwindCSS, JavaScript, TypeScript, ReactJS, NextJS, JSON, NodeJS, Fastify, Python, MongoDB, SQL, C#, .NET
