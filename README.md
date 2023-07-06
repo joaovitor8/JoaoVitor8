@@ -3,14 +3,12 @@
 <br>
 
 <div>
-  <p>Sou um entusiasta da tecnologia e desenvolvimento de software, focando em sempre aprender e aprimorar minhas habilidades em diferentes áreas da programação, como:</p>
+  <p>Sou um entusiasta da tecnologia, focando em sempre aprender e aprimorar minhas habilidades em diferentes áreas da programação, como:</p>
 
   <ul>
-    <li>Programação em Javascript</li>
-    <li>Programação em Python</li>
+    <li>Desenvolvimento de Software</li>
+    <li>Ciência de Dados</li>
   </ul>
-
-  <p>Tecnologias: Git, HTML, CSS, TailwindCSS, JavaScript, TypeScript, ReactJS, NextJS, JSON, NodeJS, Fastify, Python, MongoDB, SQL, C#, .NET</p>
   
   <p>Fique à vontade para explorar meus projetos no GitHub. Sinta-se livre para entrar em contato caso tenha alguma pergunta ou oportunidade de colaboração. Obrigado por visitar meu perfil!</p>
 </div>
