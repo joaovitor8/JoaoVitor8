@@ -7,9 +7,7 @@
 
   <ul>
     <li>Programação em Javascript</li>
-    <li>Desenvolvimento Full-stack</li>
     <li>Programação em Python</li>
-    <li>Ciência de dados</li>
   </ul>
 
   <p>Tecnologias: Git, HTML, CSS, TailwindCSS, JavaScript, TypeScript, ReactJS, NextJS, JSON, NodeJS, Fastify, Python, MongoDB, SQL, C#, .NET</p>
