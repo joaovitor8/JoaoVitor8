@@ -1,25 +1,11 @@
-# 👋 Hello Word! Welcome to my Github profile.
+# Olá! 👋
 
-<br>
+Meu nome é João Vitor e sou desenvolvedor de software.
 
-<div>
-  <p>Sou um entusiasta da tecnologia, focando em sempre aprender e aprimorar minhas habilidades em diferentes áreas da programação, como:</p>
+## Sobre mim
 
-  <ul>
-    <li>Desenvolvimento de Software</li>
-    <li>Ciência de Dados</li>
-  </ul>
-  
-  <p>Fique à vontade para explorar meus projetos no GitHub. Sinta-se livre para entrar em contato caso tenha alguma pergunta ou oportunidade de colaboração. Obrigado por visitar meu perfil!</p>
-</div>
+https://www.linkedin.com/in/joaovitorezequiel/
 
+## Linguagens e ferramentas
 
-
-<br>
-
-## Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,git,py,mongodb,cs)](https://skillicons.dev)
-
-<br>
-
-![Snake animation](https://github.com/joaovitor8/joaovitor8/blob/output/github-contribution-grid-snake.svg)
