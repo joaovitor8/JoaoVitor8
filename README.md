@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-<p>Atualmente estou estudando desenvolvimento Web/Front-End, estudo essa area mais para entrar no mercado de trabalho, mas mais para frente eu quero ir para a area de dados e IAs.</p>
+<p>;;.</p>
 
 ## 🛠 Habilidades
 
