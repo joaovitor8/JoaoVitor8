@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-<p>;;.</p>
+<p>...</p>
 
 ## 🛠 Habilidades
 
