@@ -2,13 +2,22 @@
 
 ## 🚀 Sobre mim
 
-<p>...</p>
+<div align="center">
+  <img src="https://" width="300"/>
+</div>
+
+...
+
+## 📊 Status
+
+<a href="https://github.com/joaovitor8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor8&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/joaovitor8">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitor8&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 ## 🛠 Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,tailwind,nodejs,py,mongodb,cs)](https://skillicons.dev)
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorezequiel/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Joao_Ezeki)
