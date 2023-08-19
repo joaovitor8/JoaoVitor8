@@ -1,12 +1,8 @@
-# Eae blz?, bem-vindo ao meu perfio!, eu sou o João Vitor!
+# Eae blz?, bem-vindo ao meu perfio!
 
-## 🚀 Sobre mim
+## 🚀 Sobre
 
-<div align="center">
-  <img src="https://" width="300"/>
-</div>
-
-...
+Em aprendizado etermo
 
 ## 📊 Status
 
