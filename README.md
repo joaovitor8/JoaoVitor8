@@ -17,3 +17,11 @@ Em aprendizado etermo
 ## 🛠 Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,tailwind,nodejs,py,mongodb,cs)](https://skillicons.dev)
+
+
+## Visitors Count
+
+<div align="center">  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaovitor8}/count.svg" /></p> 
+<br>
+</div>
